@@ -7,5 +7,6 @@ public class Main {
         vehicle.drive();
 
         //feature development branch is created
+        //second commit in feature development branch
     }
 }
